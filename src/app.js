@@ -1,3 +1,3 @@
-console.log("merhaba kardeş");
+console.log("merhaba kardeeş");
 
 
